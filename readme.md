@@ -1,0 +1,2 @@
+Creality Hi Manager is a menu-based script for the Creality Hi 3D printer that provides a unified interface to install, configure, and manage printer software and system settings. It is designed for advanced users who want fine-grained control over their printer, including managing dependencies, Moonraker, Fluidd, system logging, telemetry, G-code files, and other advanced settings.
+The guide is here: [wiki](https://github.com/kisslorand/Creality-Hi-manager-wiki/wiki)
